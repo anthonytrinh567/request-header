@@ -1,0 +1,22 @@
+{
+  "name": "whoami",
+  "version": "0.0.0",
+  "private": true,
+  "description": "WhoAmI",
+  "author": "Anthony Trinh <anthonytrinh56721@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "~4.13.4",
+    "ipware": "0.0.8",
+    "jade": "~1.11.0",
+    "morgan": "~1.7.0",
+    "pug": "^2.0.0-beta5",
+    "serve-favicon": "~2.3.0"
+  }
+}
