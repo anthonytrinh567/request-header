@@ -1,6 +1,6 @@
-# Timestamp Microservice API Project
+# Request Header Parser Microservice API Project
 
 View working demo on my heroku! 
-http://timestamp-atrinh567.herokuapp.com/
+http://whoami-atrinh567.herokuapp.com/
 
 Project assigned by FreeCodeCamp!
