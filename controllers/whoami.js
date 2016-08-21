@@ -2,7 +2,7 @@ var ipware = require('ipware')().get_ip;
 
 module.exports.homePage = function (req, res, next) {
     res.render('index', {
-        title: 'Who Am I?'
+        title: 'Who Am I? Click below to find out a little about yourself!'
     });
 };
 module.exports.info = function (req, res, next) {
